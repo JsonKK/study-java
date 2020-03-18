@@ -24,9 +24,20 @@ public class DemoDoubleLoop {
         //利用for循环输出正三角形
         {
             //定义行数
-            int lang = 5;
+            int lang = 15;
+            //定义空格数
+            int space = lang - 1;
             for(int i = 0;i<lang;i++){
-
+                //每行输出得空格数
+                for (int n=0;n<space;n++){
+                    System.out.print(" ");
+                }
+//                每行输出的*个数
+                for(int j =2*i-1;j>0;j--){
+                    System.out.print("*");
+                }
+                space--;
+                System.out.println();
             }
         }
     }
