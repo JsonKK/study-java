@@ -1,4 +1,4 @@
-package org.apche.method;
+package org.apache.method;
 
 public class DemoSimpleMethod {
     //打印函数

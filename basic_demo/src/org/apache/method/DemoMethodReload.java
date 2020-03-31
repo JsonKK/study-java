@@ -1,4 +1,4 @@
-package org.apche.method;
+package org.apache.method;
 
 public class DemoMethodReload {
 

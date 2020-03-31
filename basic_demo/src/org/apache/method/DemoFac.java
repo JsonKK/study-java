@@ -1,4 +1,4 @@
-package org.apche.method;
+package org.apache.method;
 
 //阶乘方法
 public class DemoFac {

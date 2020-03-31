@@ -1,5 +1,4 @@
-package org.apche.method;
-import java.lang.reflect.Array;
+package org.apache.method;
 import  java.util.Scanner;
 
 public class DemoArea {

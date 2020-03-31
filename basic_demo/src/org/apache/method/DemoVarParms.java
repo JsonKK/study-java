@@ -1,4 +1,4 @@
-package org.apche.method;
+package org.apache.method;
 
 public class DemoVarParms {
     //可变参数求和

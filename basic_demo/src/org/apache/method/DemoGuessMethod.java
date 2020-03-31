@@ -1,5 +1,4 @@
-package org.apche.method;
-import org.apache.basic.DemoGuess;
+package org.apache.method;
 
 import java.util.Scanner;
 import java.util.Arrays;
